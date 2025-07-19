@@ -1,0 +1,49 @@
+Feature,Correlation,P-value,Strength
+Start_Lat,0.06905969095079775,0.0,No correlation
+Start_Lng,0.052862202485535505,0.0,No correlation
+End_Lat,0.08372405942035319,0.0,No correlation
+End_Lng,0.09318953834528887,0.0,No correlation
+Distance(mi),0.034786898797572206,0.0,No correlation
+Temperature(F),-0.020326554761223067,0.0,No correlation
+Wind_Chill(F),-0.07003941932624555,0.0,No correlation
+Humidity(%),0.022293498722634055,0.0,No correlation
+Pressure(in),0.042346923532597204,0.0,No correlation
+Visibility(mi),-0.0034725674079684127,1.3941505852932588e-21,No correlation
+Wind_Speed(mph),0.04021387463298005,0.0,No correlation
+Precipitation(in),0.02108018580770593,0.0,No correlation
+Amenity,-0.03287483100271407,0.0,No correlation
+Bump,-0.005158051679339198,1.2399670535191066e-46,No correlation
+Give_Way,-0.004784944067170318,2.247162942295056e-40,No correlation
+Junction,0.049889992393378865,0.0,No correlation
+No_Exit,-0.010352171899007988,3.8403815349488336e-182,No correlation
+Railway,-0.010303175852119342,1.927521901714194e-180,No correlation
+Roundabout,-0.0016778682665718433,3.094066967223078e-06,No correlation
+Station,-0.04603169412981077,0.0,No correlation
+Stop,-0.047105671192675586,0.0,No correlation
+Traffic_Calming,-0.005502092636700401,8.139621782895832e-53,No correlation
+
+Source,,,Not enough data
+Start_Time,,,Not enough data
+End_Time,,,Not enough data
+Description,,,Not enough data
+Street,,,Not enough data
+City,,,Not enough data
+County,,,Not enough data
+State,,,Not enough data
+Zipcode,,,Not enough data
+Country,,,Invalid
+Timezone,,,Not enough data
+Airport_Code,,,Not enough data
+Weather_Timestamp,,,Not enough data
+Wind_Direction,,,Not enough data
+Weather_Condition,,,Not enough data
+Turning_Loop,,,Invalid
+Sunrise_Sunset,,,Not enough data
+Civil_Twilight,,,Not enough data
+Nautical_Twilight,,,Not enough data
+Astronomical_Twilight,,,Not enough data
+
+Traffic_Signal,-0.10490089235501185,0.0,Low correlation
+Crossing,-0.10832317873250896,0.0,Low correlation
+
+

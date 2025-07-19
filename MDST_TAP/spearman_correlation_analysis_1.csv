@@ -1,0 +1,35 @@
+Feature,Spearman Correlation,Strength
+Description,0.021747012487388428,No correlation
+City,-0.03161561854278263,No correlation
+County,-0.06751560062844443,No correlation
+State,0.02959150816004887,No correlation
+Zipcode,-0.03728401523867006,No correlation
+Country,,Invalid
+Timezone,-0.05033105677725769,No correlation
+Airport_Code,-0.022384948286242542,No correlation
+Wind_Direction,0.03692818939494294,No correlation
+Weather_Condition,0.02852625982027039,No correlation
+Amenity,-0.03687600077439946,No correlation
+Bump,-0.005267737683850022,No correlation
+Give_Way,-0.006126169369037539,No correlation
+Junction,0.052592518790352434,No correlation
+No_Exit,-0.011108923359503626,No correlation
+Railway,-0.011153995895311623,No correlation
+Roundabout,-0.0019472507293408622,No correlation
+Station,-0.04930295069336008,No correlation
+Stop,-0.05461935583700633,No correlation
+Traffic_Calming,-0.005569190905682992,No correlation
+Turning_Loop,,Invalid
+Sunrise_Sunset,-0.000571711580428132,No correlation
+Civil_Twilight,-0.0014355976033874555,No correlation
+Nautical_Twilight,-0.002824774555099101,No correlation
+Astronomical_Twilight,-0.00654429282922047,No correlation
+
+
+Source,0.28793917666516927,Low correlation
+Start_Time,-0.28471383092637476,Low correlation
+End_Time,-0.28468450302540277,Low correlation
+Street,0.1012018012065541,Low correlation
+Weather_Timestamp,-0.27593449857283114,Low correlation
+Crossing,-0.11682161660535202,Low correlation
+Traffic_Signal,-0.11273766660414895,Low correlation
